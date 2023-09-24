@@ -1,2 +1,2 @@
 # AngulerJS
-If you get it, you get it. 
+A research project
